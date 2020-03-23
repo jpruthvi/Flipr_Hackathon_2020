@@ -1,4 +1,4 @@
-This folder contains the solutions to the Flipr Machine Learning Hackathon 2020.
+This folder contains my solutions to the Flipr Machine Learning Hackathon 2020.
 The Folder Problem1 contains code and submission for the first problem.
 The Folder Problem2 contains code and submission for the second problem.
 Hackathon_4.0_ML_Guidelines.pdf contains the problem statement.
